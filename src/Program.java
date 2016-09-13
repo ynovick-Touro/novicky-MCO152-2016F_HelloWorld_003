@@ -5,7 +5,7 @@ public class Program {
 		// TODO Auto-generated method stub
 		// This line displays a message
 		MessageDisplayer md = new MessageDisplayer("Hello World");
-		md.display();
+		md.display(); // Shows message
 	}
 
 }
